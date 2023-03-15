@@ -11,7 +11,7 @@ a.forEach((v, i) =>{
         console.log("Você já seguiu " + contador + " pessoas")
         }else{
         console.log("Você já segue esse usuario")
-    }
+        }
     }, i * 20000
             )
 
