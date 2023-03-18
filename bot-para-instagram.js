@@ -12,7 +12,7 @@ a.forEach((v, i) =>{
         }else{
         console.log("Você já segue esse usuario")
         }
-    }, i * 20000
+    }, i * 70000
             )
 
 })
@@ -33,5 +33,5 @@ document.querySelectorAll('._acat').forEach((item, index)=> {
                 }
             })
         }
-    }, index * 20000)
+    }, index * 70000)
 })
